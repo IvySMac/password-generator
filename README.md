@@ -6,7 +6,9 @@
 
 ## Usage
 
+![There is a box with a dashed border in the center of the screen. Above it reads 'Generate A Password' in bold and below it has a red button with the words 'Generate Password' on it.](./images/passwordgenerator-screenshot.png)
 
+To use the site, just click the 'Generate Password' button and you will be prompted to create a unique password with numbers, special characters, and uppercase letters. 
 
 ## User Story
 
