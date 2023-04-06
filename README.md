@@ -10,6 +10,8 @@ In this challenge, I help finish out the code to create a website that creates u
 
 To use the site, just click the 'Generate Password' button and you will be prompted to create a unique password with numbers, special characters, and uppercase letters. 
 
+<a href="https://ivysmac.github.io/password-generator/">Live Site</a>
+
 ## User Story
 
 ```

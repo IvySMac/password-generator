@@ -11,14 +11,19 @@ function writePassword() {
 }
 
 var generatePassword=function () {
+//Creates a pop up at the top to prompt the user to input information we need 
 var passLength=parseInt(window.prompt ("Enter desired password length"))
 console.log (passLength)
+//defines the boundaries of the password
 if (passLength<8 || passLength>128 || isNaN(passLength)) {
+//If the password is less than 8, more than 128 and isn't a number at all, you will be greeted with the alert text
   alert("Please enter a valid password length")
+//At this point, the function stops and you'll need to start over with valid information
 return "Please try again";
 }
 
 
+//If what is entered passes the if/else statement above (a number between 8 and 128)
 var characterString=""
 if (confirm("Would you like lowercase letters?")){
 characterString+="abcdefghijklmnopqrstuvwxyz"
