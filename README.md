@@ -2,7 +2,7 @@
 
 ## Description 
 
-
+In this challenge, I help finish out the code to create a website that creates unique passwords! This exercise helps me better understand Javascript functions and if/else statements. 
 
 ## Usage
 
@@ -39,3 +39,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ```
+
+## Credits
+
+Starter code was provided by KU Bootcamp. This is used strictly for educational purposes.
